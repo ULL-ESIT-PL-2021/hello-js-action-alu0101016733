@@ -1,0 +1,24 @@
+{
+  "name": "hello-js-action-alu0101016733",
+  "version": "1.0.0",
+  "description": "##### Author: alu0101016733 ##### E-Mail: alu0101016733@ull.edu.es",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-PL-2021/hello-js-action-alu0101016733.git"
+  },
+  "keywords": [],
+  "author": "alu0101016733 <alu0101016733@ull.edu.es> (https://github.com/alu0101016733)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-PL-2021/hello-js-action-alu0101016733/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-PL-2021/hello-js-action-alu0101016733#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.6",
+    "@actions/github": "^4.0.0"
+  }
+}
