@@ -12,7 +12,12 @@
   },
   "keywords": [],
   "author": "alu0101016733 <alu0101016733@ull.edu.es> (https://github.com/alu0101016733)",
-  "license": "ISC",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/ULL-ESIT-PL-2021/hello-js-action-alu0101016733.git/LICENSE-MIT"
+    }
+  ],
   "bugs": {
     "url": "https://github.com/ULL-ESIT-PL-2021/hello-js-action-alu0101016733/issues"
   },
